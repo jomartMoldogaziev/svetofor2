@@ -1,0 +1,40 @@
+body{
+    background-color: #62f7e8;
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+}
+
+
+.svetofor{
+    width: 300px;
+    height: 450px;
+    border: 1px solid #62f7e8;
+    background-image: url(https://imgpng.ru/d/traffic_light_PNG15284.png); 
+    background-size: contain;
+    background-repeat: no-repeat;
+
+}
+.top{
+    margin-top: 39px;
+}
+.light {
+    width: 104px;
+    height: 104px;
+  border-radius: 50%;
+  margin: 10px;
+  margin-left: 100px;
+  margin-top: 20px;
+}
+
+#red {
+  background-color: grey;
+}
+
+#yellow {
+  background-color: grey;
+}
+
+#green {
+  background-color: grey;
+}
